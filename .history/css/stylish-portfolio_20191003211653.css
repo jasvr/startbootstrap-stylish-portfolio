@@ -88,12 +88,12 @@ h6 {
 .masthead {
   min-height: 30rem;
   position: relative;
-  display: table;
+  display: ;
   width: 100%;
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: url("../img/cover-clay-site.svg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/clay-cover.png");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
